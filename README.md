@@ -207,8 +207,9 @@ This project was developed as part of a final-year academic project in Applied M
 Applied Mathematics \& Statistics
 
 Data Science | Machine Learning | Artificial Intelligence
+## 🖥️ Dashboard Preview
 
-
+![Biofilm Prediction Dashboard](Capture d'écran 2026-09-05 152313.png)
 
 \## 📄 License
 
